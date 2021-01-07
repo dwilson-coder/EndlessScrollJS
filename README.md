@@ -19,7 +19,7 @@ const url = 'https://script.google.com/macros/s/AKfycbxFlQXkvna9jYamLWhTQ1k3cJIt
 
 ## Demo
 
-See the demo in action at [<a href="https://dwilson-coder.github.io/EndlessScrollJS/">https://dwilson-coder.github.io/EndlessScrollJS/</a>](Link)
+See the demo in action at [https://dwilson-coder.github.io/EndlessScrollJS/](https://dwilson-coder.github.io/EndlessScrollJS/)
 
 
 
